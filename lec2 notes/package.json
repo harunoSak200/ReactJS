@@ -1,0 +1,19 @@
+{
+  "name": "lec2-notes",
+  "version": "1.0.0",
+  "description": "THis is the part 2 course notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namste",
+    "react"
+  ],
+  "author": "aditya kshatriya",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
